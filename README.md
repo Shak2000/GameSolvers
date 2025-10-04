@@ -1,6 +1,6 @@
-# Game Solvers
+# Algorithmic Game Solvers
 
-This repository contains links to the game solver repositories I have worked on, which implement apps that use techniques and algorithms like mathematically proven solutions, minimax with alpha-beta pruning, Monte Carlo tree simulations, and neural networks to accomplish a strong performance on games such as Rock-Paper Scissors, Blackjack, Othello (Reversi), and more:
+This repository contains links to the algorithmic game solver repositories I have worked on, which implement apps that use techniques and algorithms like mathematically proven solutions, minimax with alpha-beta pruning, Monte Carlo tree simulations, and neural networks to accomplish a strong performance on games such as Rock-Paper Scissors, Blackjack, Othello (Reversi), and more:
 
 ## Mathematically Proven Solvers
 
